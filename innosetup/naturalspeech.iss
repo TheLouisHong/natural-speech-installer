@@ -16,7 +16,7 @@
 AppName=Natural Speech
 AppPublisher=Natural Speech RuneLite Plugin
 UninstallDisplayName=Natural Speech Text-To-Speech RuneLite Plugin
-AppVersion=1.3
+AppVersion=2
 AppSupportURL=https://github.com/phyce/rl-natural-speech
 DefaultDirName={localappdata}\NaturalSpeech
 DisableDirPage=yes
@@ -61,7 +61,7 @@ SelectTasksLabel2=Select additional voices you would like to install, then click
 
 [CustomMessages]
 piperInstall= Piper Text-To-Speech
-sapi4Install=(Require Admin) Microsoft Text-To-Speech v4 (Voice of Gary Gilbert)
+sapi4Install=(Require Admin) Microsoft Text-To-Speech v4
 
 
 [Run]
